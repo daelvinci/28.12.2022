@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dersdekiler", "Dersdekiler\Dersdekiler.csproj", "{A19C68E1-E663-4652-80F7-1A4E826F387C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstarctlar", "Abstarctlar\Abstarctlar.csproj", "{29D86D9A-63D8-4B49-BCB8-C9C1EFEE6BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19C68E1-E663-4652-80F7-1A4E826F387C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19C68E1-E663-4652-80F7-1A4E826F387C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19C68E1-E663-4652-80F7-1A4E826F387C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19C68E1-E663-4652-80F7-1A4E826F387C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D86D9A-63D8-4B49-BCB8-C9C1EFEE6BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D86D9A-63D8-4B49-BCB8-C9C1EFEE6BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D86D9A-63D8-4B49-BCB8-C9C1EFEE6BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D86D9A-63D8-4B49-BCB8-C9C1EFEE6BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3FCE3DF-CFB6-4691-9EDB-6F0AF9A80537}
+	EndGlobalSection
+EndGlobal

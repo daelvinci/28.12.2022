@@ -1,0 +1,14 @@
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\bin\Debug\netcoreapp3.1\Dersdekiler.exe
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\bin\Debug\netcoreapp3.1\Dersdekiler.deps.json
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\bin\Debug\netcoreapp3.1\Dersdekiler.runtimeconfig.json
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\bin\Debug\netcoreapp3.1\Dersdekiler.runtimeconfig.dev.json
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\bin\Debug\netcoreapp3.1\Dersdekiler.dll
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\bin\Debug\netcoreapp3.1\Dersdekiler.pdb
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\obj\Debug\netcoreapp3.1\Dersdekiler.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\obj\Debug\netcoreapp3.1\Dersdekiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\obj\Debug\netcoreapp3.1\Dersdekiler.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\obj\Debug\netcoreapp3.1\Dersdekiler.AssemblyInfo.cs
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\obj\Debug\netcoreapp3.1\Dersdekiler.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\obj\Debug\netcoreapp3.1\Dersdekiler.dll
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\obj\Debug\netcoreapp3.1\Dersdekiler.pdb
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Dersdekiler\obj\Debug\netcoreapp3.1\Dersdekiler.genruntimeconfig.cache

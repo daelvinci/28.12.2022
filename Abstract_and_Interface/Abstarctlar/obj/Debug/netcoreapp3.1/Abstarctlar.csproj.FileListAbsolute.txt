@@ -1,0 +1,14 @@
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\bin\Debug\netcoreapp3.1\Abstarctlar.exe
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\bin\Debug\netcoreapp3.1\Abstarctlar.deps.json
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\bin\Debug\netcoreapp3.1\Abstarctlar.runtimeconfig.json
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\bin\Debug\netcoreapp3.1\Abstarctlar.runtimeconfig.dev.json
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\bin\Debug\netcoreapp3.1\Abstarctlar.dll
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\bin\Debug\netcoreapp3.1\Abstarctlar.pdb
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\obj\Debug\netcoreapp3.1\Abstarctlar.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\obj\Debug\netcoreapp3.1\Abstarctlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\obj\Debug\netcoreapp3.1\Abstarctlar.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\obj\Debug\netcoreapp3.1\Abstarctlar.AssemblyInfo.cs
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\obj\Debug\netcoreapp3.1\Abstarctlar.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\obj\Debug\netcoreapp3.1\Abstarctlar.dll
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\obj\Debug\netcoreapp3.1\Abstarctlar.pdb
+C:\Users\SONY\Desktop\28.12.2022\Abstract_and_Interface\Abstarctlar\obj\Debug\netcoreapp3.1\Abstarctlar.genruntimeconfig.cache
